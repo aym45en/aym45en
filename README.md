@@ -13,11 +13,6 @@ Welcome to my GitHub profile! I’m a passionate Software Engineering student wi
   - **Modeling**: Knowledgeable in UML for designing software architectures.
 
 
-## 🌱 Current Learning
-
-I'm currently focusing on:
-- **Reinforcement Learning (RL)**: Exploring the fundamentals and practical applications.
-
 ## 📫 Connect with Me
 
 Feel free to reach out if you want to collaborate or just chat!
