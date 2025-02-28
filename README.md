@@ -19,6 +19,6 @@ Feel free to reach out if you want to collaborate or just chat!
 
 - [Instagram]https://www.instagram.com/aym_45_en/
 - [x/Twitter]https://www.x.com/aym_45_en/
-- [Email]aymendev45@gmail.com
+- [Email]rabah.rouissa@univ-constantine2.dz
 
 Thank you for visiting my profile! Looking forward to connecting with fellow developers and tech enthusiasts.
